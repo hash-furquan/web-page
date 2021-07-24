@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Screnshot of the web page is in the folder mentioned above
+Screnshots of the web page created.
 
 ### Links
 
