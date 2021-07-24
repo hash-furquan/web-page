@@ -25,9 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
+<<<<<<< HEAD
 ![](./screenshot.jpg)
 
 Screnshot of the web page is in the folder mentioned above
+=======
+![](./screenshot/screenshot.png)
+
+Screnshots of the web page created.
+>>>>>>> b8023f1bc81cd163f01a149baa48b7ef8f6fe36e
 
 ### Links
 
