@@ -30,7 +30,7 @@ Screnshot of the web page created.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://furquan-demo-web-page.netlify.app/)
 
 ### Built with
 
