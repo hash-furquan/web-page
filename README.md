@@ -24,23 +24,13 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-<<<<<<< HEAD
-![](./screenshot.jpg)
-
-Screnshot of the web page is in the folder mentioned above
-=======
 ![](./screenshot/screenshot.png)
-
-Screnshots of the web page created.
->>>>>>> b8023f1bc81cd163f01a149baa48b7ef8f6fe36e
+Screnshot of the web page created.
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
